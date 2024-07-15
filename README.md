@@ -1,4 +1,4 @@
-## Opa! Meu nome é Lucas Togni.
+## Oi! Meu nome é Lucas Togni.
 
 - 🔭 Atualmente trabalho com Back-End.
 - 🌱 Também estou aprimorando meus conhecimentos em Java e estudando Kotlin e Python.
