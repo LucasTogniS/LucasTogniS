@@ -22,5 +22,6 @@
 </div>
 
 ![Snake animation](https://github.com/LucasTogniS/LucasTogniS/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LucasTogniS&repo=LucasTogniS&theme=react)](https://github.com/LucasTogniS/LucasTogniS).
 
 
