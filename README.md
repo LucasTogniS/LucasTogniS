@@ -1,7 +1,7 @@
 ## Oi! Meu nome é Lucas Togni.
 
 - 🔭 Atualmente sou Desenvolvedor Trainee e trabalho com Back-End.
-- 🌱 Também estou aprimorando meus conhecimentos em Java e estudando Kotlin e Python.
+- 🌱 Também estou aprimorando meus conhecimentos em Java e estudando Kotlin, Python, Node.JS e Golang.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasTogniS)](https://github.com/anuraghazra/github-readme-stats)
