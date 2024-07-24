@@ -1,6 +1,6 @@
 ## Oi! Meu nome é Lucas Togni.
 
-- 🔭 Atualmente sou Desenvolvedor Júnior e trabalho com Back-End.
+- 🔭 Atualmente sou Desenvolvedor Trainee e trabalho com Back-End.
 - 🌱 Também estou aprimorando meus conhecimentos em Java e estudando Kotlin e Python.
 
 
