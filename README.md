@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Atualmente sou Desenvolvedor Trainee e trabalho com Back-End utilizando Java.<br>- 🌱 Também estou aprimorando meus conhecimentos em Java e estudando Kotlin, Python, Node.JS e Golang.</p>
+<p align="left">- 🔭 Atualmente sou Desenvolvedor Júnior e trabalho com Back-End utilizando Java.<br>- 🌱 Também estou aprimorando meus conhecimentos em Java e estudando Kotlin, Python, Node.JS e Golang.</p>
 
 ###
 
